@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "sketch": "Modo_seguidor_de_linea\\Modo_seguidor_de_linea.ino",
+    "port": "COM10"
+}
